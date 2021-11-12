@@ -6,3 +6,6 @@ El programa debe recoger por un parámetro de entrada (-f o --folder) un nombre 
 Si la carpeta existe, preguntará al usuario si está seguro de que quiere borrarla. Si contesta que sí, el programa debe borrar la carpeta recursivamente con todos sus contenidos, imprimiendo en la consola cada uno de los archivos y carpetas que borra.
 
 Usa colores para la salida de la consola.
+
+// os --> operating system
+// fs --> file system

@@ -1,12 +1,15 @@
 {
   "name": "skylab-clean-folder-aip",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "bin": "index.js",
   "scripts": {
     "start": "node ."
   },
-  "author": "",
-  "license": "ISC"
+  "author": "aip_aint_your_mamma",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
 }
